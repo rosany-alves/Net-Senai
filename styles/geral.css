@@ -10,7 +10,6 @@
     font-family: NetflixBold;
     src: url(../fonts/NetflixSans-Bold.otf);
 }
-
 *{
     margin: 0%;
     padding: 0%;
@@ -18,7 +17,6 @@
     overflow-y: none;
 
 }
-
 :root{
     --CorPrimaria: red;
     --CorSecundaria: white;
@@ -27,8 +25,7 @@
 body{
     background-color: rgb(0, 0, 0);
 }
-
-.Cabecalho{
+.cabecalho{
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -36,7 +33,6 @@ body{
     align-items: center;
     width: 95%;
 }
-
 #menu{
     display: flex;
     margin: 10px;
@@ -46,7 +42,7 @@ body{
     margin-right: 20%;
     
 }
-#Iconpesquisar{
+#iconPesquisar{
    background-color: var(--CorSecundaria);
 }
 input{
@@ -87,13 +83,10 @@ input{
     font-size: 20px;
     gap: 8px;
 }
-#NARCOS{
+#narcos{
     font: NetflixBold;
     font-size: 100px;
 }
-
-/* Hierarquia de pai para filho / pai  position relative , filho position absolute */
-/* FIM - Acrescentar um texo dentro da imagem banner */
 #carrossel{
     margin-top: 80px;
     margin-left: 10px;
