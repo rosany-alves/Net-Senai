@@ -10,10 +10,18 @@
 }
 :root{
     --branco: white;
+    --preto: black;
+}
+
+main{
+    width: 90%;
+    padding: 30px;
+    margin: 10px auto; /*espaço no eixo Y e X*/
 }
 #banner{
 
 }
+
 #footer{
     
 }
