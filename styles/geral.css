@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Netflfix;
+    src: url(../fonts/netflix-sans-font/NetflixSans-Bold.otf);
+    font: normal;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+:root{
+    --branco: white;
+}
+#banner{
+
+}
+#footer{
+    
+}
